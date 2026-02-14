@@ -1,0 +1,449 @@
+{
+  "persons": [
+    {
+      "name": "Horváth Attila",
+      "neptun_code": "OCMT1H",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "befizetésre vár",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-01-28"
+        },
+        {
+          "is_paid": false,
+          "amount": 2990,
+          "date": null
+        }
+      ]
+    },
+    {
+      "name": "Molnár Gábor",
+      "neptun_code": "ORZWJM",
+      "is_student": true,
+      "special_requests": "egyszínű",
+      "mug_order_status": "befizetésre vár",
+      "payment": [
+        {
+          "is_paid": false,
+          "amount": 4990,
+          "date": null
+        }
+      ]
+    },
+    {
+      "name": "Horváth Gábor",
+      "neptun_code": "1LCSK9",
+      "is_student": true,
+      "special_requests": "gömbölyű",
+      "mug_order_status": "befizetve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 4990,
+          "date": "2024-09-9"
+        }
+      ]
+    },
+    {
+      "name": "Balogh Ferenc",
+      "neptun_code": "BCRKKZ",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "befizetve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2024-09-28"
+        }
+      ]
+    },
+    {
+      "name": "Molnár Tamás",
+      "neptun_code": "MWRRCE",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "befizetve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2024-09-20"
+        }
+      ]
+    },
+    {
+      "name": "Kis Marcell",
+      "neptun_code": "KK11YI",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2024-09-1"
+        }
+      ]
+    },
+    {
+      "name": "Hun László",
+      "neptun_code": "LAC000",
+      "is_student": false,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2024-09-1"
+        },
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2023-09-1"
+        },
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2022-09-1"
+        }
+      ]
+    },
+    {
+      "name": "Varga Viktor",
+      "neptun_code": "VIVIVI",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "befizetve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2024-09-22"
+        }
+      ]
+    },
+    {
+      "name": "Gál Gábor",
+      "neptun_code": "0G4AB2",
+      "is_student": true,
+      "special_requests": "műanyag",
+      "mug_order_status": "befizetésre vár",
+      "payment": [
+        {
+          "is_paid": false,
+          "amount": 2500,
+          "date": null
+        }
+      ]
+    },
+    {
+      "name": "Szilágyi Emese",
+      "neptun_code": "E4M732",
+      "is_student": false,
+      "special_requests": null,
+      "mug_order_status": "megrendelve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2024-10-10"
+        }
+      ]
+    },
+    {
+      "name": "Mástáros Miklós",
+      "neptun_code": "MIK333",
+      "is_student": true,
+      "special_requests": "üveg",
+      "mug_order_status": "megrendelve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 3990,
+          "date": "2024-09-5"
+        }
+      ]
+    },
+    {
+      "name": "Szűcs Zsombor",
+      "neptun_code": "Z1O6M5",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "befizetve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2024-09-1"
+        }
+      ]
+    },
+    {
+      "name": "Lassán Szabolcs",
+      "neptun_code": "CZ01YI",
+      "is_student": true,
+      "special_requests": "színes",
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 4990,
+          "date": "2023-09-10"
+        }
+      ]
+    },
+    {
+      "name": "Dávid Bendegúz",
+      "neptun_code": "QQ56RZ",
+      "is_student": true,
+      "special_requests": "üveg",
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 4990,
+          "date": "2023-09-14"
+        }
+      ]
+    },
+    {
+      "name": "Ritook Pál",
+      "neptun_code": "11AAKL",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2023-09-21"
+        }
+      ]
+    },
+    {
+      "name": "Kecskés Botond",
+      "neptun_code": "WALT98",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2023-09-22"
+        }
+      ]
+    },
+    {
+      "name": "Kenyeres Ágnes",
+      "neptun_code": "9U8I6M",
+      "is_student": false,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2023-09-22"
+        }
+      ]
+    },
+    {
+      "name": "Könyves Kálmán",
+      "neptun_code": "9U8III",
+      "is_student": false,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2023-09-25"
+        }
+      ]
+    },
+    {
+      "name": "Lengyel Áron",
+      "neptun_code": "AKCB33",
+      "is_student": true,
+      "special_requests": "újrahasznosított műanyag",
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 1500,
+          "date": "2023-10-1"
+        }
+      ]
+    },
+    {
+      "name": "Rácz Károly",
+      "neptun_code": "LKQ123",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2023-10-3"
+        }
+      ]
+    },
+    {
+      "name": "Pintér Palkó",
+      "neptun_code": "P12A2L",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-11"
+        },
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2023-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Ardai Márton",
+      "neptun_code": "ARB999",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Vince Otto",
+      "neptun_code": "OT11OT",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-2"
+        }
+      ]
+    },
+    {
+      "name": "Kun Olivér",
+      "neptun_code": "OLO123",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-20"
+        }
+      ]
+    },
+    {
+      "name": "Kerekes Péter",
+      "neptun_code": "PET888",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-15"
+        }
+      ]
+    },
+    {
+      "name": "Budai Zalán",
+      "neptun_code": "569ZAL",
+      "is_student": true,
+      "special_requests": "formás",
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 4990,
+          "date": "2022-09-1"
+        }
+      ]
+    },
+    {
+      "name": "Keresztes Kristóf",
+      "neptun_code": "KRIT01",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Kovács Oszvald",
+      "neptun_code": "OSZI44",
+      "is_student": false,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 0,
+          "date": "2022-10-30"
+        }
+      ]
+    },
+    {
+      "name": "Jancsó Tamás",
+      "neptun_code": "436LKQ",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "elkészült",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-11"
+        }
+      ]
+    },
+    {
+      "name": "Mezei Pisti",
+      "neptun_code": "ME22M2",
+      "is_student": true,
+      "special_requests": null,
+      "mug_order_status": "befizetve",
+      "payment": [
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2022-10-11"
+        },
+        {
+          "is_paid": true,
+          "amount": 2990,
+          "date": "2024-10-10"
+        }
+      ]
+    }
+  ]
+}
